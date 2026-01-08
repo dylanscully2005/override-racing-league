@@ -22,7 +22,7 @@ function App() {
   const adminEmails = ['dylan1@override.com'];
 
   useEffect(() => {
-  const repo = "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"; // Change this!
+  const repo = "dylanscully2005/override-racing-league"; // Change this!
   let currentCommit = "";
 
   const checkForUpdates = async () => {
